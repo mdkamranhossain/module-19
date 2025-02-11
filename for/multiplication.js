@@ -27,7 +27,12 @@ Generate a multiplication table for number 9
     
 // }
 
-let mpc = 7;
-for (let i = 1; i <= 10; i++){
-    console.log(`${mpc} x ${i} = ${mpc * i}`)
+// let mpc = 7;
+// for (let i = 1; i <= 10; i++){
+//     console.log(`${mpc} x ${i} = ${mpc * i}`)
+// }
+
+let i = 12;
+for (let num = 12; num <= 10; num++){
+    console.log(num);
 }
